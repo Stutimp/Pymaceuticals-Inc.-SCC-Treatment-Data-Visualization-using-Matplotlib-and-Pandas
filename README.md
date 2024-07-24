@@ -39,7 +39,7 @@ This project provides comprehensive insights into the efficacy of different drug
 ### Conclusion:
 Overall, the project demonstrates the power of data visualization and statistical analysis in evaluating drug efficacy, ultimately supporting informed decision-making for future research and development strategies in cancer treatment.
 
-#Refered to matplotlib quick start documentation https://matplotlib.org/3.7.1/tutorials/introductory/quick_start.html for charts.
-#Refered to https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html for regression analysis.
+- Refered to matplotlib quick start documentation https://matplotlib.org/3.7.1/tutorials/introductory/quick_start.html for charts.
+- Refered to https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html for regression analysis.
 
 Thank you !
